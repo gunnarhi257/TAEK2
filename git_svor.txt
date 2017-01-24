@@ -56,3 +56,5 @@ svör við sp 8
 svör við sp 9
 
 10.	Hvar er GIT helst notað?
+
+svör við sp 10

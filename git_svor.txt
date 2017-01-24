@@ -49,6 +49,8 @@ svör við sp 7
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
+svör við sp 8
+
 9.	Hver fann upp GIT?
 
 10.	Hvar er GIT helst notað?

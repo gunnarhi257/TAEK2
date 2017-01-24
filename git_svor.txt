@@ -45,6 +45,8 @@ svör við sp 6
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
+svör við sp 7
+
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
 9.	Hver fann upp GIT?

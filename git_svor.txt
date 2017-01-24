@@ -1,60 +1,68 @@
-1. Hva� gera eftirfarandi Linux skipanir?
+﻿1. Hvað gera eftirfarandi Linux skipanir?
 	cd
 	cd ~
 	ls
 	pwd
 	mkdir
 
+"cd" -- þú getur breytt um skrár,notuð til að færa sig í möppu eða upp um eina möppu
+ "cd" ~ = fer inn á heimasvæði notanda
+ls = ls skipunin leyfir þér að sjá hvaða möppur þú ert búin að búa til
+pwd = athugar á hvaða drifi Git bash vinnur
+ mkdir = býrð til möppu 
 
-
-sv�r vi� spurningu 1
-
-
-
-
-
-2. Hva� gera eftirfarandi git skipanir og hvers vegna eru ��r gagnlegar?
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
 	git log
 	git status
 	git diff
-	git checkout
+	git ceckout
+	  
+  
+  git clone = setur upp geymslu,eða tekur geymslu sem er búið að búa til
+  git log = sýnir skuldbinda notkunarskrár
+  git status = skoða hvað er að gerast í möppunni 
+  git diff = sýnir breytingar á milli commit
+  git checkout = til að skoða öll log og commit
 
-sv�r vi� sp 2
-
-3. Hver er munurinn � eftirfarandi git skipunum:
+3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
 	b) git diff --staged 
 	c) git diff commit1 commit2
 
-sv�r vi� sp 3
+git diff --sýnir breytingar á milli commit
+git diff --staged --sýnir breytingar í skrá
+git diff commit1 commit2 --Sýnir munin á milli tvo eða fleira skrá
 
+4. 	Hvað er útgáfustýring (e.version control)? 
 
+Version control systems are a category of software tools that help a software team manage changes to source code over time.
 
-4. 	Hva� er �tg�fust�ring (e.version control)? 
+5.  Hverjir eru helstu kostir við að nota GIT?
 
-sv�r vi� sp 4
+Data integrity is assured: Because git uses SHA1 trees, data corruption due to external reasons can be easily detected.
 
-5.	Hverjir eru helstu kostir vi� a� nota GIT?
+6.  Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
-sv�r vi� sp 5
+það fylgjir eftir hversu margar spurningar eru í verkefninu
 
-6.	Hversu oft telur �� a� eigi a� gera commit � verkefni, r�kstuddu?
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
-sv�r vi� sp 6
+Working directory dfis the directory with your source fdfgdfiles under git control (in the root of alsdfggl dirs under control .git file is present).
 
-7.	Hva� er "Working directory"?" "Staging area"?" og "Repository" � GIT?
+The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit.
 
-sv�r vi� sp 7
+Repository The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository.
 
-8.	Hven�r er sni�ugt a� nota greinar (branches)? 
+8.	Hvenær er sniðugt að nota greinar (branches)? 
 
-sv�r vi� sp 8
+The git branch command lets you create, list, rename, and delete branches. It doesn’t let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
+
 
 9.	Hver fann upp GIT?
 
-sv�r vi� sp 9
+linus torvalds árið 2005.
 
-10.	Hvar er GIT helst nota�?
+10.	Hvar er GIT helst notað?
 
-sv�r vi� sp 10
+hjá fólki sem vinnur með tölvur.

@@ -33,6 +33,8 @@ svör við sp 3
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
+svör við sp 4
+
 5.	Hverjir eru helstu kostir við að nota GIT?
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?

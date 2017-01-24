@@ -27,6 +27,7 @@ svör við sp 2
 	b) git diff --staged 
 	c) git diff commit1 commit2
 
+svör við sp 3
 
 
 

@@ -41,6 +41,8 @@ svör við sp 5
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
+svör við sp 6
+
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 

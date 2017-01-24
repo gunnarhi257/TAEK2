@@ -20,7 +20,7 @@ svör við spurningu 1
 	git diff
 	git checkout
 
-
+svör við sp 2
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
